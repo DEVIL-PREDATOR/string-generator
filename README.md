@@ -7,7 +7,7 @@ Generate Pyrogram String Session Using this bot.
 ## CONTACT OWNER OF THIS REPO
 <a href="https://telegram.dog/DEVIL_PREDATOR_XD"><img src="https://img.shields.io/badge/TELEGRAM-ID-blue.svg?logo=telegram"></a>
 
-<a href="https://wa.me/+1 (309) 432-5781"><img src="https://img.shields.io/badge/WHATSAPP-NO-blue.svg?logo=telegram"></a>
+<a href="https://wa.me/?text=+1 (309) 432-5781"><img src="https://img.shields.io/badge/WHATSAPP-NO-blue.svg?logo=WHATSAPP"></a>
 
 
 ## Configs:
