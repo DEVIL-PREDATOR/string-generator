@@ -2,7 +2,7 @@
 Generate Pyrogram String Session Using this bot.
 
 ## KNIGHT STRING GENEATOR BOT:
-<a href="https://telegram.dog/string_session_robot"><img src="https://img.shields.io/badge/?logo=telegram"></a>
+<a href="https://telegram.dog/string_generator_robot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
