@@ -4,6 +4,9 @@ Generate Pyrogram String Session Using this bot.
 ## KNIGHT STRING GENEATOR BOT:
 <a href="https://telegram.dog/string_generator_robot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
+## CONTACT OWNER OF THIS REPO
+<a href="https://telegram.dog/DEVIL_PREDATOR_XD"><img src="https://img.shields.io/badge/TELEGRAM-ID-blue.svg?logo=telegram"></a>
+
 ## Configs:
 - API_HASH
   - Get from [Here](https://my.telegram.org).
