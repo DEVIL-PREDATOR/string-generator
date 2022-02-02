@@ -5,7 +5,7 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://telegram.dog/string_generator_robot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## CONTACT OWNER OF THIS REPO
-<a href="https://telegram.dog/DEVIL_PREDATOR_XD"><img src="https://img.shields.io/badge/TELEGRAM-ID-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/DARK_KNIGHT_XD"><img src="https://img.shields.io/badge/TELEGRAM-ID-blue.svg?logo=telegram"></a>
 
 <a href="https://wa.me/text=+1 (309) 432-5781"><img src="https://img.shields.io/badge/WHATSAPP-NO-blue.svg?logo=WHATSAPP"></a>
 
